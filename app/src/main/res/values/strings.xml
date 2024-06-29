@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NewStoryApp</string>
+
+    <string name="welcome">Welcome to</string>
+    <string name="logout">Keluar</string>
+    <string name="title_signup_page">Silahkan registrasi terlebih dahulu</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Isi email &amp; password terlebih dahulu</string>
+    <string name="login">Login</string>
+    <string name="title_welcome_page">Welcome</string>
+    <string name="message_welcome_page">Selamat Datang!!</string>
+    <string name="story_name">Story Name</string>
+    <string name="description">Description</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="dummy_text">Tell your story here</string>
+    <string name="image">image</string>
+    <string name="add_your_memories">Add your memories</string>
+    <string name="your_uploaded_image_preview">your image preview</string>
+    <string name="empty_description_warning">Empty Warning</string>
+    <string name="empty_form_upload">Empty Form Upload</string>
+    <string name="upload_success">Upload Success</string>
+
+
+    <color name="navy">#2D3D4F</color>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="home">Home</string>
+    <string name="powered_by">Powered By</string>
+    <string name="splash_screen_section">Splashscreen Section</string>
+    <string name="maps">Maps</string>
+
+
+
+
+
+
+</resources>
